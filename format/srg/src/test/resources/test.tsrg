@@ -1,0 +1,6 @@
+test/app/Main test/app/Main
+	a startTime
+	b args
+	main ([Ljava/lang/String;)V main
+	a ([Ljava/lang/String;Ljava/io/file/File;I)I aTestMethod
+test/app/a test/app/Gui

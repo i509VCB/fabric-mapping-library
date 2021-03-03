@@ -1,0 +1,12 @@
+# Just a simple
+# and tall
+# header
+test.app.Main -> test.app.Main
+    int startTime -> a
+    java.lang.String[] args -> b
+    20:20:void main(java.lang.String[]) -> main
+    31:32:int aTestMethod(java.lang.String[],java.io.File,int) -> a
+test.app.Gui -> test.app.a
+    java.util.Map settings -> a
+    10:27:void <init>(java.util.Map) -> <init>
+    34:65:void open() -> a
